@@ -1,0 +1,20 @@
+/**
+* A simple program to display some ASCII ModernArt
+*to the console.
+*
+* @author anup
+*/
+public class ModernArt
+{
+    public static void main(String[] args);
+        System.out.print ("--------------");
+        System.out.print ("|             |");
+        System.out.print ("|             |");
+        System.out.print ("|             |");
+        System.out.print ("|             |");
+        System.out.print ("|             |");
+        System.out.print ("--------------");
+
+
+    }
+}
